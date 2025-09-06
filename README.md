@@ -4,7 +4,7 @@ I'm Alyanna Martinez and I am a student at Southwestern University currently pur
 
 My current interests include machine learning, artificial intelligence, and applications of computational techniques to research in neuroscience! 
 
-Here is the link to my LinkedIn profile, where you can learn more about me and my work experience! [![Linkedin: Alyanna Martinez](https://img.shields.io/badge/-Alyanna_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alyanna-martinez088/](https://www.linkedin.com/in/alyanna-martinez088/))](https://www.linkedin.com/in/alyanna-martinez088/)
+Here is the link to my LinkedIn profile, where you can learn more about me and my work experience! --> [![Linkedin: Alyanna Martinez](https://img.shields.io/badge/-Alyanna_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alyanna-martinez088/](https://www.linkedin.com/in/alyanna-martinez088/))](https://www.linkedin.com/in/alyanna-martinez088/)
 <!--
 **martineza088/martineza088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
