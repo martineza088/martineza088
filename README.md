@@ -4,7 +4,7 @@ I'm Alyanna Martinez and I am a student at Southwestern University currently pur
 
 My current interests include machine learning, artificial intelligence, and applications of computational techniques to research in neuroscience! 
 
-I recently spent the summer on an independent research project looking at patterns in subtractive edge magic labelling graphs. I decided to create an automatic graph generator as a tool to help me with this, you can find my repo for this project [here](https://github.com/martineza088/SEML-Graph-Generator). 
+I recently spent the summer on an independent research project looking at patterns in subtractive edge magic labeling graphs. I decided to create an automatic graph generator as a tool to help me with this, you can find my repo for this project [here](https://github.com/martineza088/SEML-Graph-Generator). 
 
 Here is the link to my LinkedIn profile, where you can learn more about me and my work experience! --> [![Linkedin: Alyanna Martinez](https://img.shields.io/badge/-Alyanna_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alyanna-martinez088/](https://www.linkedin.com/in/alyanna-martinez088/))](https://www.linkedin.com/in/alyanna-martinez088/)
 <!--
