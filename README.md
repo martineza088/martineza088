@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
 
+I'm Alyanna Martinez and I am a student at Southwestern University currently pursuing a Computer Science and Psychology double-major, along with a Neuroscience and Mathematics double-minor. 
+
+My current interests include machine learning, artificial intelligence, and applications of computational techniques to research in neuroscience! 
 <!--
 **martineza088/martineza088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
