@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Alyanna Martinez and I am a student at Southwestern University currently pursuing a Computer Science and Psychology double-major, along with a Neuroscience and Mathematics double-minor. 
+I'm Alyanna Martinez and I am a student at Southwestern University currently pursuing a Computer Science and Psychology double-major, along with a Neuroscience (and possibly Mathematics) minor. 
 
 My current interests include machine learning, artificial intelligence, and applications of computational techniques to research in neuroscience! 
 
