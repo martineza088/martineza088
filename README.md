@@ -1,12 +1,14 @@
-## Hi there! 👋
+## why hello there! 👋
 
-I'm Alyanna Martinez and I am a student at Southwestern University currently pursuing a Computer Science and Psychology double-major, along with a Neuroscience (and possibly Mathematics) minor. 
+I'm Alyanna Martinez and I am a student at Southwestern University currently pursuing a Computer Science and Psychology double-major, along with a Neuroscience and Mathematics minor. 
 
 My current interests include machine learning, artificial intelligence, and applications of computational techniques to research in neuroscience! 
 
-I recently spent the summer on an independent research project looking at patterns in subtractive edge magic labeling graphs. I decided to create an automatic graph generator as a tool to help me with this, you can find my repo for this project [here](https://github.com/martineza088/SEML-Graph-Generator). 
+I am currently doing computational work on an NSF-funded study investigating the growth of S. pimpinellifolium root architectures and seeing if they grow in a Pareto-optimal manner. You can find the repo containing my work for this project [here](https://github.com/arjunc12/Plant-Architecture). 
 
-Here is the link to my LinkedIn profile, where you can learn more about me and my work experience! --> [![Linkedin: Alyanna Martinez](https://img.shields.io/badge/-Alyanna_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alyanna-martinez088/](https://www.linkedin.com/in/alyanna-martinez088/))](https://www.linkedin.com/in/alyanna-martinez088/)
+I also spent last the summer on an independent research project looking at patterns in subtractive edge magic labeling graphs. I decided to create an automatic graph generator as a tool to help me with this, you can find my repo for this project [here](https://github.com/martineza088/SEML-Graph-Generator). 
+
+And here is the link to my LinkedIn profile, where you can learn more about me and my work experience! --> [![Linkedin: Alyanna Martinez](https://img.shields.io/badge/-Alyanna_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alyanna-martinez088/](https://www.linkedin.com/in/alyanna-martinez088/))](https://www.linkedin.com/in/alyanna-martinez088/)
 <!--
 **martineza088/martineza088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
